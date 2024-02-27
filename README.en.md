@@ -1,7 +1,11 @@
 # bolee-cloud
 
 #### Description
+<<<<<<< HEAD
 《四方》-吕治豪
+=======
+四方保险
+>>>>>>> Initial commit
 
 #### Software Architecture
 Software architecture description
